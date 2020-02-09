@@ -1,0 +1,6 @@
+# Interview_guide
+FAAMG
+```
+
+```
+
