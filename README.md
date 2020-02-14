@@ -15,3 +15,5 @@ III. If you are over the 20 minute mark and have some idea where to go, then kee
 IV. If you came to incorrect solution due to a few logical errors in your code, read the last sentence of step 2.  
 
 V. Write down and or remember what made this problem unique, what was the trick to understanding/solving this problem.
+
+VI. ROTE memorization will not pass
