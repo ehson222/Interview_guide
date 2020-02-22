@@ -12,7 +12,7 @@ II. Spend 20 minutes on design (whiteboard/paper), 10 mins on coding and last 5 
 
 III. If you are over the 20 minute mark and have some idea where to go, then keep going until timer ends.  If you have no idea after the first 20 minutes, just look at the solution.  Look at the best solution that you understand, not necessarily optimal solution (I’m guessing you are new, some optimal solutions are very lengthy and overly complicated).
 
-IV. If you came to incorrect solution due to a few logical errors in your code, read the last sentence of step 2.  
+IV. If you came to incorrect solution due to a few logical errors in your code, go to step 2.  
 
 V. Write down and or remember what made this problem unique, what was the trick to understanding/solving this problem.
 
