@@ -173,6 +173,9 @@ void LinkedList::removeData(node* leaf, int d){
             capacity--;
         }
     }
+    if(capacity == 0){
+        head = nullptr;
+    }
 }
 
 void LinkedList::display(){
